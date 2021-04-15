@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@600&display=swap"); */
+.homepage {
+  color: white;
+}
+.logo {
+  font-size: 170px;
+  font-family: "Bebas Neue", cursive;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  z-index: 1;
+  color: black;
+}
+.logo2 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  font-size: 40px;
+  font-family: "Bebas Neue", cursive;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: black;
+}
+img {
+  height: 70%;
+  position: absolute;
+  bottom: 0;
+  left: 200px;
+  transform: scaleX(-1);
+}
+
+div.text {
+  padding: 50px;
+  position: absolute;
+  top: 15%;
+  right: 100px;
+  width: 50%;
+  background-color: black;
+  font-family: "Lato";
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+div.text h1 {
+  padding: 10px 0;
+  font-size: 65px;
+  font-family: "Raleway";
+}

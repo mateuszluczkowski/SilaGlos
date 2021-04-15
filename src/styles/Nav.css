@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+ul.nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  height: 400px;
+  width: 100%;
+  justify-content: flex-end;
+  list-style-type: none;
+  z-index: 2;
+}
+
+ul.nav li {
+  margin: 25px 30px;
+  width: 200px;
+}
+ul.nav li a {
+  display: block;
+  color: black;
+  font-size: 45px;
+  /* font-family: "Josefin Sans", sans-serif; */
+  font-family: "Raleway";
+  font-family: "Bebas Neue", cursive;
+  text-decoration: none;
+  text-align: center;
+  text-transform: capitalize;
+  transition: 0.6s;
+  position: relative;
+  padding-bottom: 3px;
+  /* letter-spacing: 2px; */
+  opacity: 0.4;
+}
+
+ul.nav li:nth-last-of-type(1) {
+  margin-right: 150px;
+}
+
+ul.nav li a:hover {
+  opacity: 1;
+}
+
+ul.nav li a.active {
+  opacity: 1;
+  letter-spacing: 3px;
+}

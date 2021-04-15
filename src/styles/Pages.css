@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway&display=swap");
+
+div.pages {
+  padding: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 70%;
+  max-height: 90%;
+  background-color: black;
+}
+.pages h1 {
+  font-size: 110px;
+  letter-spacing: 2px;
+  font-family: "Raleway";
+  margin-bottom: 50px;
+}
+.pages p {
+  font-family: "Lato";
+  font-size: 25px;
+  letter-spacing: 1px;
+}
