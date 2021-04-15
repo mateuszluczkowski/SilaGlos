@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SilaGlos/static/css/main.c6be14d0.chunk.css",
-    "main.js": "/SilaGlos/static/js/main.205853e5.chunk.js",
-    "main.js.map": "/SilaGlos/static/js/main.205853e5.chunk.js.map",
+    "main.js": "/SilaGlos/static/js/main.060e8607.chunk.js",
+    "main.js.map": "/SilaGlos/static/js/main.060e8607.chunk.js.map",
     "runtime-main.js": "/SilaGlos/static/js/runtime-main.c162b2b1.js",
     "runtime-main.js.map": "/SilaGlos/static/js/runtime-main.c162b2b1.js.map",
     "static/js/2.cd1b770b.chunk.js": "/SilaGlos/static/js/2.cd1b770b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c162b2b1.js",
     "static/js/2.cd1b770b.chunk.js",
     "static/css/main.c6be14d0.chunk.css",
-    "static/js/main.205853e5.chunk.js"
+    "static/js/main.060e8607.chunk.js"
   ]
 }
