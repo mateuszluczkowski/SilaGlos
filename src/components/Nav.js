@@ -21,7 +21,7 @@ class Nav extends Component {
   };
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <ul className="nav">
           <li>
             <NavLink onClick={this.handleClick} to="/" exact>
