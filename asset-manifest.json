@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SilaGlos/static/css/main.c6be14d0.chunk.css",
+    "main.js": "/SilaGlos/static/js/main.205853e5.chunk.js",
+    "main.js.map": "/SilaGlos/static/js/main.205853e5.chunk.js.map",
+    "runtime-main.js": "/SilaGlos/static/js/runtime-main.c162b2b1.js",
+    "runtime-main.js.map": "/SilaGlos/static/js/runtime-main.c162b2b1.js.map",
+    "static/js/2.cd1b770b.chunk.js": "/SilaGlos/static/js/2.cd1b770b.chunk.js",
+    "static/js/2.cd1b770b.chunk.js.map": "/SilaGlos/static/js/2.cd1b770b.chunk.js.map",
+    "static/js/3.6e9ef364.chunk.js": "/SilaGlos/static/js/3.6e9ef364.chunk.js",
+    "static/js/3.6e9ef364.chunk.js.map": "/SilaGlos/static/js/3.6e9ef364.chunk.js.map",
+    "index.html": "/SilaGlos/index.html",
+    "static/css/main.c6be14d0.chunk.css.map": "/SilaGlos/static/css/main.c6be14d0.chunk.css.map",
+    "static/js/2.cd1b770b.chunk.js.LICENSE.txt": "/SilaGlos/static/js/2.cd1b770b.chunk.js.LICENSE.txt",
+    "static/media/zdj5.de961b9e.png": "/SilaGlos/static/media/zdj5.de961b9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c162b2b1.js",
+    "static/js/2.cd1b770b.chunk.js",
+    "static/css/main.c6be14d0.chunk.css",
+    "static/js/main.205853e5.chunk.js"
+  ]
+}
